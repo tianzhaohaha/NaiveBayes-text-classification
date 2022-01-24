@@ -1,1 +1,3 @@
-naive bayes-text classification
+1.本实验数据都是翻译好的
+2.运行时直接打开NB.py可以直接运行出结果
+3.运行预测结果放在result.csv文件里
